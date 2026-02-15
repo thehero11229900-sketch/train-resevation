@@ -1,5 +1,5 @@
 # train-resevation
-�1. Train Seat Reservation System
+ Train Seat Reservation System
 1. Introduction
 The Train Seat Reservation System is a web/mobile-based application designed to allow users to
 search, book, modify, and cancel train tickets efficiently. It ensures secure seat allocation,
